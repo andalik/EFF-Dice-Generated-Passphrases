@@ -22,3 +22,5 @@
 ╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═════╝░
 by Renato Andalik (@andalik)
 </pre>
+
+Implementação via software do conceito de geração de frase-senha proposto pela EFF em https://www.eff.org/dice
