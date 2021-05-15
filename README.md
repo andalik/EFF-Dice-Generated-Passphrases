@@ -25,5 +25,4 @@ by Renato Andalik (@andalik)
 
 Implementação via software do conceito de geração de frase-senha proposto pela EFF em https://www.eff.org/dice
 
-Disponível publicamente no Repl.it para execução através do navegador:
-https://replit.com/@Andalik/EFF-Dice-Generated-Passphrases#main.py
+Disponível publicamente no Repl.it para execução através do navegador em https://replit.com/@Andalik/EFF-Dice-Generated-Passphrases#main.py
